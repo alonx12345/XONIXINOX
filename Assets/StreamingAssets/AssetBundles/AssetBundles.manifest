@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 921442813
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: grids
+      Dependencies: {}
+    Info_1:
+      Name: hand
+      Dependencies: {}

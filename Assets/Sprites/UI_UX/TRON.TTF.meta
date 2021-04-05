@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f5931875826d544b0833c9f61ab333b7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TRON
+  fontNames:
+  - TRON
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b8887cfe1244e48ba91cfa13a64accbb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
